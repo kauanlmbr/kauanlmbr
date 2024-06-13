@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+  .p1{
+    font-family: Times, Times New Roman, serif; color:lightpink; font-size: 50px; font-weight:bold
+  }
+  
+  .p2{
+    font-family: Optima, sans-serif; color: black; font-size: 20px;
+  }
